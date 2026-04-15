@@ -122,11 +122,4 @@ If you want every table and every row refreshing live at once:
 - `/curator-studio` curator tools
 - `/admin` admin console
 
-## Verification Already Completed
 
-- `./node_modules/.bin/tsc --noEmit`
-- `npm run build`
-
-## Remaining Step For Live DB Verification
-
-I still need a valid local MySQL username/password from your machine to run the bootstrap script and verify the real database workflows end to end.
